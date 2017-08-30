@@ -26,3 +26,4 @@ project/plugins/project/
 .cache-main
 .cache-tests
 .settings/
+data/
